@@ -377,7 +377,7 @@ b. Ball
 c. Cat`);
 switch (a) {
     case "a":
-        text = "Apple"; 1
+        text = "Apple";
         break;
     case "b":
         text = "Ball";
